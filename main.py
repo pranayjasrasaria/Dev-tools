@@ -1,0 +1,6 @@
+print("Raj's friends birth dates")
+print("Varun: 18 January 2013")
+print("Tanay: 28 March 2013")
+print("Hemang: 23 Aprail 2012")
+print("Harsh: 13 November 2012")
+print("Trimaya: 28 November 2012")
